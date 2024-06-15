@@ -12,9 +12,6 @@
     "remote-store": "./bin/cli.js"
   },
   "devDependencies": {
-    "@upstash/redis": "^1.30.0",
     "redis": "^4.6.13"
-  },
-  "dependencies": { 
   }
 }
